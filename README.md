@@ -17,4 +17,4 @@ This project was developed and tested using the following versions:
 ## Running Tests
 
 To run the tests from the command line, run `python -m pytest --verbose --html="report.html"` from the project root directory.
-This command will discover and run all tests in the project and create an report as html file when the execution ends.
+This command will discover and run all tests in the project and create a report as html file when the execution ends.
